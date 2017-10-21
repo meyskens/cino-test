@@ -1,1 +1,4 @@
-
+name: cino-test
+tests:
+  - name: dummy-1
+    file: ./src/sketch.ino
