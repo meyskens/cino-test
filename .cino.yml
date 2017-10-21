@@ -1,4 +1,4 @@
-name: cino-test
+main: ./src/src/sketch.ino
 tests:
   - name: dummy-1
-    file: ./src/sketch.ino
+    file: ./src/tests/test1.ino
