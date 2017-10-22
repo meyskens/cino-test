@@ -1,4 +1,4 @@
-main: ./src/src/sketch.ino
+main: ./src/sketch.ino
 tests:
   - name: dummy-1
-    file: ./src/tests/test1.ino
+    file: ./tests/test1.ino
